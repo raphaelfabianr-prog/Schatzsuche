@@ -1,0 +1,65 @@
+[
+  {
+    "token": "mISmAqcCCPAn",
+    "title": "Posten 1 · Der Anfang",
+    "text": "Willkommen zur Schatzsuche. Der erste Hinweis wartet dort, wo man kurz innehält, bevor man weiterzieht.",
+    "task": "Findet den nächsten QR-Code. Er ist nicht weit von dem Ort entfernt, an dem ihr diese Nachricht gelesen habt.",
+    "photo": ""
+  },
+  {
+    "token": "ZDmWesOSfQQC",
+    "title": "Posten 2 · Augen auf",
+    "text": "Manchmal ist der beste Hinweis direkt vor der Nase. Menschen sind erstaunlich gut darin, genau das zu übersehen.",
+    "task": "Sucht nach einem Detail, das im Alltag kaum jemand beachtet. Dort geht es weiter.",
+    "photo": ""
+  },
+  {
+    "token": "72g2WVLXPQNB",
+    "title": "Posten 3 · Eine kleine Prüfung",
+    "text": "Ein Schatz fällt selten einfach vom Himmel. Wäre ja auch organisatorisch viel zu bequem.",
+    "task": "Löst gemeinsam ein kleines Rätsel oder erfüllt eine Challenge, bevor ihr weitergeht.",
+    "photo": ""
+  },
+  {
+    "token": "QzVofSbvosJP",
+    "title": "Posten 4 · Erinnerungsstück",
+    "text": "Nicht alles Wertvolle glänzt. Manche Dinge sind wertvoll, weil sie eine Geschichte tragen.",
+    "task": "Findet den nächsten Ort anhand eines Fotos oder einer Erinnerung.",
+    "photo": ""
+  },
+  {
+    "token": "NUhkEEf2iQh3",
+    "title": "Posten 5 · Perspektivwechsel",
+    "text": "Wer immer nur geradeaus schaut, verpasst manchmal den Weg, der direkt daneben liegt.",
+    "task": "Schaut euch um und sucht aus einer anderen Perspektive. Der nächste QR-Code wartet dort.",
+    "photo": ""
+  },
+  {
+    "token": "jnvG2ZCaL3Q2",
+    "title": "Posten 6 · Zusammenarbeit",
+    "text": "Manche Rätsel lassen sich leichter lösen, wenn zwei Köpfe daran arbeiten. Ausnahmsweise ist das kein Spruch auf einer Bürotasse.",
+    "task": "Löst die Aufgabe gemeinsam. Erst wenn ihr euch einig seid, dürft ihr weiterziehen.",
+    "photo": ""
+  },
+  {
+    "token": "A0rOXqyxZVYZ",
+    "title": "Posten 7 · Fast am Ziel",
+    "text": "Ihr seid weiter gekommen, als es vielleicht zuerst aussah. Aber ein bisschen Weg bleibt noch.",
+    "task": "Sucht den nächsten QR-Code an dem Ort, der durch euren Hinweis beschrieben wird.",
+    "photo": ""
+  },
+  {
+    "token": "yoE8arEIhW9g",
+    "title": "Posten 8 · Der letzte Hinweis",
+    "text": "Der Schatz ist nah. Jetzt zählt nicht mehr, wie schnell ihr seid, sondern ob ihr die Hinweise richtig zusammensetzt.",
+    "task": "Kombiniert die bisherigen Hinweise und findet den letzten Ort.",
+    "photo": ""
+  },
+  {
+    "token": "w1YlWFjG8aw5",
+    "title": "Posten 9 · Das Finale",
+    "text": "Ihr habt es geschafft. Der Schatz war nie einfach nur eine Sache, die irgendwo herumliegt. Es ging um den Weg, die kleinen Hinweise und die Menschen, mit denen man ihn teilt.",
+    "task": "Öffnet den Schatz. Das hier ist euer Finale.",
+    "photo": ""
+  }
+]
